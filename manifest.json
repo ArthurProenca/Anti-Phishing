@@ -5,9 +5,9 @@
     "permissions": [
       "activeTab"
     ],
-    "browser_action": {
+    "action": {
       "default_title": "Anti-Phishing",
-      "default_popup": "popup.html"
+      "default_popup": "src/popup.html"
     },
     "background": { "service_worker": "src/background.js" },
     "content_scripts": [
