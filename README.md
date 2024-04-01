@@ -8,7 +8,7 @@
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/anti-phishing-extension.git
+   git clone git@github.com:ArthurProenca/Anti-Phishing.git
 
 2. **Enable developer mode in your browser**:
     Open a new tab in Chrome and go to chrome://extensions/
